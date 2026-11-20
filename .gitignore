@@ -1,0 +1,12 @@
+# Learner repository: build output, dependencies and local editor/OS files.
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+reports/
+.env
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
